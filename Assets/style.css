@@ -1,0 +1,48 @@
+
+ .mynav {
+    display: flex;
+}
+  body{
+    background-color:brown;
+  }
+  
+  header{
+   background-color: beige;
+   display:flex;
+   justify-content: space-between;
+   margin-bottom: 20px;
+}
+  ul{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin: right 50px; ;
+  }
+ h1{
+    font-size: 2rem;
+ }
+  
+  ul li {
+    margin: 15px;
+  }
+  
+  h2{
+    font-size: 1.5rem;
+    margin:20px;
+  }
+  #profile{
+    width: 100px;
+    margin: 20px;
+    border:10px solid black;
+  }
+  .Work img{
+    width: 500px;
+  }
+  
+  body{
+    text-align: center;
+  }
+  #Work{
+    font-size: 1.5rem;
+    margin: 20px;
+  }
