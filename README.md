@@ -5,5 +5,5 @@
  I have pictures and demostrate how i can be a great team players 
  Consists of html, CSS javascript,github and gitbootcamp
 link to the deployed site: https://ayotheman12.github.io/profile/
-![image]()
+![image](https://github.com/Ayotheman12/profile/blob/master/Assets/images/screenshot.png)
  
